@@ -1,0 +1,22 @@
+{
+  "name": "svg-packager",
+  "description": "Replaces linked resources with locally copied resources (converting absolute to relative URLs in the process).",
+  "version": "0.0.1",
+  "author": {
+    "name": "Will Bamford",
+    "email": "w.bamford@gmail.com"
+  },
+  "dependencies": {
+    "somedep": "~0.7.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "devDependencies": {
+    "zlib": "~1.0.5",
+    "request": "~2.34.0"
+  }
+}

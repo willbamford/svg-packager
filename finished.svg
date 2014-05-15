@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="maker-svg" class="preview__svg" width="320" height="560" viewBox="0 0 320 560">
+    <defs>
+        <style type="text/css">
+            @font-face {
+              font-family: 'Oswald';
+              font-style: bold;
+              font-weight: 400;
+              src: local('Oswald'), local('Oswald'), url(http___www.footballphonecase.com.s3-website-eu-west-1.amazonaws.com_fonts_oswald-bold-150-prc.woff) format('woff');
+            }
+            @font-face {
+              font-family: 'Premier League';
+              font-style: normal;
+              font-weight: 400;
+              src: local('Premier League'), local('Premier League'), url(http___www.footballphonecase.com.s3-website-eu-west-1.amazonaws.com_fonts_premierleague.woff) format('woff');
+            }
+        </style>
+        <path id="def-shirt-curve-path" d="M 73.39745962155614 229.99999999999997 A 100 100 0 0 1 246.60254037844388 230" />
+    </defs>
+    <g>
+        <image id="shirt-image" x="0" y="0" width="320" height="560" xlink:href="http___www.footballphonecase.com.s3-website-eu-west-1.amazonaws.com_images_shirts_england-2nd_320x560_2x.jpg" />
+        <text id="shirt-name-text-1" text-anchor="middle" font-size="34" stroke-width="4" style="font-family: Roboto; stroke-width: 4px; fill: none; stroke: none;">
+            <textPath id="shirt-name-text-path-1" startOffset="50%" xlink:href="#def-shirt-curve-path">ENGLAND</textPath>
+        </text>
+        <text id="shirt-name-text-2" text-anchor="middle" font-size="34" style="font-family: 'Premier League'; fill: rgb(255, 255, 255); stroke: none;">
+            <textPath id="shirt-name-text-path-2" startOffset="50%" xlink:href="#def-shirt-curve-path">ENGLAND</textPath>
+        </text>
+        <text id="shirt-number-text-1" text-anchor="middle" x="160" y="350" font-size="110" style="font-family: 'Oswald'; fill: rgb(153, 0, 0); stroke: rgb(153, 0, 0); stroke-width: 7px;">7</text>
+        <text id="shirt-number-text-2" text-anchor="middle" x="160" y="350" font-size="110" style="font-family: 'Oswald'; fill: rgb(255, 255, 255); stroke: none;">7</text>
+        <image id="shirt-shading-image" x="0" y="0" width="320" height="560" xlink:href="http___www.footballphonecase.com.s3-website-eu-west-1.amazonaws.com_images_shirts_shading_320x560_2x.jpg" opacity="0.15" />
+    </g>
+</svg>
